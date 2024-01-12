@@ -1,0 +1,8 @@
+@article{REPO201,
+    author = "Dhariwal, Prafulla and Nichol, Alexander",
+    journal = "Advances in neural information processing systems",
+    pages = "8780--8794",
+    title = "{Diffusion Models beat GANs on Image Synthesis}",
+    volume = "34",
+    year = "2021"
+}
