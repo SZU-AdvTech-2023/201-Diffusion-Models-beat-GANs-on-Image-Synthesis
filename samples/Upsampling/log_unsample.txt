@@ -1,0 +1,10 @@
+Logging to C:\Users\10601\AppData\Local\Temp\openai-2023-12-02-20-45-39-727946
+creating model...
+loading data...
+creating samples...
+created 4 samples
+created 8 samples
+created 12 samples
+created 16 samples
+saving to C:\Users\10601\AppData\Local\Temp\openai-2023-12-02-20-45-39-727946\samples_16x256x256x3.npz
+sampling complete
